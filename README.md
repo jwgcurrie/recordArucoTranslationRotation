@@ -32,3 +32,6 @@ Important, if you want the localisation data to be recorded in a .csv file, pres
 Configuration: if you have a regular webcam, use the funciton localiseAruco(), if you are using an intelRealsense camera, use localiseArucoRealsense().
 
 
+
+
+![pic](https://github.com/user-attachments/assets/6a8a4e7a-409c-4f75-b62d-d2d91ec2dbfc)
