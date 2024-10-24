@@ -1,5 +1,5 @@
 # recordArucoTranslationRotation
-Outputs translation and rotation in euler angles of specified Aruco marker as .csv
+Outputs translation and rotation in euler angles of specified Aruco marker as .csv using opencv.
 
 # 1. Setup Python Environment:
 Using conda (https://anaconda.org/anaconda/conda) create a new virtual environment using the file .Tracker.yml. Use the following command to do so.
