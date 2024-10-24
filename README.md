@@ -5,7 +5,7 @@ Outputs translation and rotation in euler angles of specified Aruco marker as .c
   $ git clone https://github.com/jwgcurrie/recordArucoTranslationRotation.git
   
 ## 1. Setup Python Environment:
-Using conda (https://anaconda.org/anaconda/conda) create a new virtual environment using the file .Tracker.yml. Use the following command to do so.
+Using conda (https://anaconda.org/anaconda/conda) create a new virtual environment using the file Tracker.yml. Use the following command to do so.
 
   $ conda env create --name Tracker --file=Tracker.yml
 
