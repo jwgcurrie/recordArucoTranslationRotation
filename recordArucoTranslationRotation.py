@@ -181,7 +181,7 @@ def localiseArucoRealsense(t_out, marker_id, x_out, y_out, z_out, theta_out):
         pipeline.stop()
 
 def getParticipantID():
-    print("Enter Participant ID:")
+    print("Enter ID:")
     id = input()
     return id
 
