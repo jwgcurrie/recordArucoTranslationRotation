@@ -2,12 +2,12 @@
 Outputs translation and rotation in euler angles of specified Aruco marker as .csv using opencv.
 ## 0. clone this repository to your machine with:
   
-  $git clone https://github.com/jwgcurrie/recordArucoTranslationRotation.git
+  $ git clone https://github.com/jwgcurrie/recordArucoTranslationRotation.git
   
 ## 1. Setup Python Environment:
 Using conda (https://anaconda.org/anaconda/conda) create a new virtual environment using the file .Tracker.yml. Use the following command to do so.
 
-  $conda env create --name Tracker --file=Tracker.yml
+  $ conda env create --name Tracker --file=Tracker.yml
 
   Then enter the newly created environment with:
 
